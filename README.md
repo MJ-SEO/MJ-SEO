@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- Problem Solving    
+  - [Baekjoon](https://www.acmicpc.net/user/audwns27)       
+       
+  [![백준 랭킹](http://mazassumnida.wtf/api/v2/generate_badge?boj=audwns27)](https://www.acmicpc.net/user/audwns27)   
+  
 <!--
 **MJ-SEO/MJ-SEO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
